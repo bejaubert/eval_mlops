@@ -1,0 +1,15 @@
+artifact_uri: file:///home/onyxia/work/eval_mlops/mlruns/851898018799107131/93480cf1c58e4263ad4d0a7722d854c0/artifacts
+end_time: 1743510705257
+entry_point_name: ''
+experiment_id: '851898018799107131'
+lifecycle_stage: active
+run_id: 93480cf1c58e4263ad4d0a7722d854c0
+run_name: caring-grouse-426
+run_uuid: 93480cf1c58e4263ad4d0a7722d854c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743510702053
+status: 3
+tags: []
+user_id: onyxia

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/onyxia/work/eval_mlops/mlruns/851898018799107131/ef94cf1aff3c4a09927c441b000f145e/artifacts
+end_time: 1743510708451
+entry_point_name: ''
+experiment_id: '851898018799107131'
+lifecycle_stage: active
+run_id: ef94cf1aff3c4a09927c441b000f145e
+run_name: upset-rat-810
+run_uuid: ef94cf1aff3c4a09927c441b000f145e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743510705259
+status: 3
+tags: []
+user_id: onyxia

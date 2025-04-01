@@ -1,0 +1,15 @@
+artifact_uri: file:///home/onyxia/work/eval_mlops/mlruns/851898018799107131/a877128a6fea40f4a274ab9ca84bae0b/artifacts
+end_time: 1743510771187
+entry_point_name: ''
+experiment_id: '851898018799107131'
+lifecycle_stage: active
+run_id: a877128a6fea40f4a274ab9ca84bae0b
+run_name: painted-pug-259
+run_uuid: a877128a6fea40f4a274ab9ca84bae0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743510767909
+status: 3
+tags: []
+user_id: onyxia

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/onyxia/work/eval_mlops/mlruns/851898018799107131/97e004895af043c9bb4a4defb48697bd/artifacts
+end_time: 1743510774371
+entry_point_name: ''
+experiment_id: '851898018799107131'
+lifecycle_stage: active
+run_id: 97e004895af043c9bb4a4defb48697bd
+run_name: mercurial-fly-828
+run_uuid: 97e004895af043c9bb4a4defb48697bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743510771189
+status: 3
+tags: []
+user_id: onyxia

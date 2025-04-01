@@ -1,0 +1,6 @@
+artifact_location: file:///home/onyxia/work/eval_mlops/mlruns/851898018799107131
+creation_time: 1743510021686
+experiment_id: '851898018799107131'
+last_update_time: 1743510021686
+lifecycle_stage: active
+name: hospital-readmission-xgb

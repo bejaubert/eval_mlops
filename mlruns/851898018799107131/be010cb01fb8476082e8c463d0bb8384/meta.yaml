@@ -1,0 +1,15 @@
+artifact_uri: file:///home/onyxia/work/eval_mlops/mlruns/851898018799107131/be010cb01fb8476082e8c463d0bb8384/artifacts
+end_time: 1743510767907
+entry_point_name: ''
+experiment_id: '851898018799107131'
+lifecycle_stage: active
+run_id: be010cb01fb8476082e8c463d0bb8384
+run_name: rebellious-sow-281
+run_uuid: be010cb01fb8476082e8c463d0bb8384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743510764593
+status: 3
+tags: []
+user_id: onyxia

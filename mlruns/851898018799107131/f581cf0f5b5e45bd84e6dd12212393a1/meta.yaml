@@ -1,0 +1,15 @@
+artifact_uri: file:///home/onyxia/work/eval_mlops/mlruns/851898018799107131/f581cf0f5b5e45bd84e6dd12212393a1/artifacts
+end_time: 1743510030723
+entry_point_name: ''
+experiment_id: '851898018799107131'
+lifecycle_stage: active
+run_id: f581cf0f5b5e45bd84e6dd12212393a1
+run_name: mercurial-shrike-346
+run_uuid: f581cf0f5b5e45bd84e6dd12212393a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743510027459
+status: 3
+tags: []
+user_id: onyxia

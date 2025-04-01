@@ -1,0 +1,15 @@
+artifact_uri: file:///home/onyxia/work/eval_mlops/mlruns/851898018799107131/a24c0ec2c1ba4f9d90e81743a54cd9be/artifacts
+end_time: 1743510698875
+entry_point_name: ''
+experiment_id: '851898018799107131'
+lifecycle_stage: active
+run_id: a24c0ec2c1ba4f9d90e81743a54cd9be
+run_name: thundering-ox-697
+run_uuid: a24c0ec2c1ba4f9d90e81743a54cd9be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743510695119
+status: 3
+tags: []
+user_id: onyxia
