@@ -1,3 +1,9 @@
+Pour faire tourner le code ne pas oublier de remplacer L'URI dans le code main.py et train.py par le votre
+mlflow.set_tracking_uri(<VOTRE_URI>)
+
+Le script train.py appel les autres scripts pour entraîner les modèles en accord avec les paramètres dans le gridsearch.
+Il faut ensuite sauvegarder le meilleur modèle dans mlflow et le nommer Best_M
+
 
 # 🏥 API - Prédiction de Réadmission Hospitalière
 
@@ -73,6 +79,11 @@ https://user-benjamin389-901468-0.user.lab.sspcloud.fr/proxy/8050/docs
 > `0` = pas de réadmission probable
 
 ---
+
+
+Screen doc API
+![alt text](image.png)
+
 
 ## ✅ Résumé
 
